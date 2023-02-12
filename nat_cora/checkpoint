@@ -1,0 +1,2 @@
+model_checkpoint_path: "nat_cora"
+all_model_checkpoint_paths: "nat_cora"
